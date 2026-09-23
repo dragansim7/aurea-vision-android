@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace = "com.dragansim.aureavision"
-    compileSdk = 37
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.dragansim.aureavision"
         minSdk = 26
-        targetSdk = 37
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
     }
